@@ -1,0 +1,22 @@
+.dataset-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #8b5fd7, #3b83d8);
+}
+
+.dataset-container-mobile{
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #8b5fd7, #3b83d8);
+}
+
+.table-dataset-container{
+    display: flex;
+    flex: 1;
+    margin: 0 300px;
+}
+
